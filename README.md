@@ -1,8 +1,14 @@
 # Election_Analysis
 
 ## Overview of Election Audit
+In this project I'm assisting Colorado board of election employee, Tom, by developing a script to automate and audit the analysis of the election data currently on tabulated format. 
+
+My task is to report total number of votes cast, total number of votes for each candidate, the percentage of the vote for each candidate, and determine the winner of the election based on data set provided.
+
+This task is usually done on Excel but Tom's manager wants to automate the process using Python congressional district but also senatorial districts and local elections.
 
 
+If the automation success using Python, the same automation will be applied to audit other not only congressional district but also senatorial districts and local elections.
 ## Election-Audit Results
 - How many votes were cast in this congressional election?
   
@@ -47,4 +53,10 @@
          ![](Resources/images/Winning_CandidateCode.png)
          
  ## Election-Audit Summary
+ 
+ With minor changes to this code, we can use same script to senatorial election.In this code we are calculating each candidates voting count and percentage after calculating this we can chose predefined number of candidates with highest votes
      
+ i.e for new jersey county we are selecting 2 senators ,instead select one winner we can select 2 by changing the code.
+ 
+ local elections like school board, city council election we can easily use same code with fewer adjustments school board members elected by residents of the school district. Most school boards contain 5-15 board members elected by voters. Using the same code, we can calculate each candidates votes and percentage.
+
