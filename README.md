@@ -9,6 +9,22 @@ This task is usually done on Excel but Tom's manager wants to automate the proce
 
 
 If the automation success using Python, the same automation will be applied to audit other not only congressional district but also senatorial districts and local elections.
+
+Mainly, the project contains 2 parts:
+1) Candidate wise vote cast analysis
+   In this part, python script calculates:
+   - Total number of votes cast
+   - list of candidates 
+   - Total number of votes for each candidate 
+   - Percentage of votes for each candidate 
+   - The winner of election based on popular vote 
+   
+2) County wise vote cast Analysis
+  Python script will give output:
+   - Total number of votes cast on each county 
+   - Percentage of votes cast on each county
+   - Highest county Turnout
+
 ## Election-Audit Results
 - How many votes were cast in this congressional election?
   
