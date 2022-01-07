@@ -26,8 +26,25 @@
      ![](Resources/images/county3.PNG)
      
   - Which county had the largest number of votes?
-    According to the this Analysis Denver county got largest number of votes
-    following is the output I received for countywise analysis
+    - According to the this Analysis Denver county got largest number of votes
+    - following is the output I received for countywise analysis
     
-    ![](Resources/images/county_votes.png)
+       ![](Resources/images/county_votes.JPG)
+       
+   - Breakdown of the number of votes and the percentage of the total votes each candidate received.
+     
+     ![](Resources/images/Candidate_votes.png)
+    
+    
+   - Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+      
+      - Candidate Diana DeGette won the election.
+      
+        ![](Resources/images/Winning_CandidateOutput.png) 
+        
+       - Following part of code will describe the way calculated winning precentage and candidate
+       
+         ![](Resources/images/Winning_CandidateCode.png)
+         
+ ## Election-Audit Summary
      
