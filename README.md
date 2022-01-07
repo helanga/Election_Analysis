@@ -8,4 +8,4 @@
   
   Total votes cast in this election is 396,711
   
-  ![](Resources\images\Total_votes)
+  ![](\Resources\images\Total_votes)
