@@ -19,4 +19,9 @@
     - then condition statement check that the county does not match any existing county in the county list and then add the existing county to county list  of counties and add vote to the county's vote count
      
     
-    ![](Resources/images/county2.png)
+     ![](Resources/images/county2.PNG)
+     
+     - At last retreive county vote count and precentage of votes for the county used for loop
+     
+     ![](Resources/images/county3.PNG)
+     
