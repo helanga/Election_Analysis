@@ -21,7 +21,7 @@
     
      ![](Resources/images/county2.PNG)
      
-     - At last retreive county vote count and precentage of votes for the county used for loop
+     - At last, calculate votes and presentage for each county using for loop
      
      ![](Resources/images/county3.PNG)
      
