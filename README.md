@@ -26,8 +26,8 @@
      ![](Resources/images/county3.PNG)
      
   - Which county had the largest number of votes?
-    - According to the this Analysis Denver county got largest number of votes
-    - following is the output I received for countywise analysis
+    - According to the analysis, Denver county has largest number of votes
+    - Below is the output for countywise analysis
     
        ![](Resources/images/county_votes.JPG)
        
@@ -42,7 +42,7 @@
       
         ![](Resources/images/Winning_CandidateOutput.png) 
         
-       - Following part of code will describe the way calculated winning precentage and candidate
+       - Following part of code will describe how does the script calculate/retreive winning precentage and candidate
        
          ![](Resources/images/Winning_CandidateCode.png)
          
